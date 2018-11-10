@@ -405,6 +405,8 @@ For information about the governance of the Node.js project, see
 **Minqi Pan** &lt;pmq2001@gmail.com&gt;
 * [princejwesley](https://github.com/princejwesley) -
 **Prince John Wesley** &lt;princejohnwesley@gmail.com&gt;
+* [psmarshall](https://github.com/psmarshall) -
+**Peter Marshall** &lt;petermarshall@chromium.org&gt; (he/him)
 * [Qard](https://github.com/Qard) -
 **Stephen Belanger** &lt;admin@stephenbelanger.com&gt; (he/him)
 * [refack](https://github.com/refack) -
@@ -433,6 +435,8 @@ For information about the governance of the Node.js project, see
 **Nikolai Vavilov** &lt;vvnicholas@gmail.com&gt;
 * [shigeki](https://github.com/shigeki) -
 **Shigeki Ohtsu** &lt;ohtsu@ohtsu.org&gt; (he/him)
+* [shisama](https://github.com/shisama) -
+**Masashi Hirano** &lt;shisama07@gmail.com&gt; (he/him)
 * [silverwind](https://github.com/silverwind) -
 **Roman Reiss** &lt;me@silverwind.io&gt;
 * [srl295](https://github.com/srl295) -
